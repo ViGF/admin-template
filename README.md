@@ -1,5 +1,5 @@
 # Template Administrativo
-Template administrativo com autenticação do Firebase.
+Template de painel administrativo com autenticação do Firebase.
 É persistido o tema através do localStorage e a sessão por meio de cookies
 com a utilização da biblioteca js-cookie
 
